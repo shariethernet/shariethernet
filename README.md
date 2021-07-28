@@ -6,5 +6,5 @@
 Driven by my zeal for innovation and technology, I am an upcoming VLSI Design Engineer and an open-source enthusiast emphasizing freedom to chip design. Eager to tackle unsolved problems, I strive to make a large imprint on innovation one step at a time.
 
 - 🔭 I’m currently working on RISC-V based Cores, Hardware Accelerators and Physical Design with Sky130 PDKs
-- Connect to me on Linkedin, Email, have a look at my website [here](https://linktr.ee/shrihari)
+- Connect to me on Linkedin, Email, have a look at my website or resume [here](https://linktr.ee/shrihari)
 
