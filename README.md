@@ -8,3 +8,6 @@ Driven by my zeal for innovation and technology, I am an upcoming VLSI Design En
 - 🔭 I’m currently working on RISC-V based Cores, Hardware Accelerators, Co-processor interconnect design and Physical Design with Sky130 PDKs
 - Connect to me on Linkedin, Email, have a look at my website or resume [here](https://linktr.ee/shrihari)
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shariethernet&theme=tokyonight)
+
